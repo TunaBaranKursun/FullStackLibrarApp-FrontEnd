@@ -28,7 +28,7 @@ export const Heros = () => {
                 Try to check in daily as our collection is always changing! We
                 work nonstop to provide the most accurate book selection
                 possible for our Luv 2 Read students! We are diligent about our
-                book selection and out book selection and out books are always
+                book selection and out books are always
                 going to be our top priority.
               </p>
             </div>
@@ -63,7 +63,7 @@ export const Heros = () => {
                 Try to check in daily as our collection is always changing! We
                 work nonstop to provide the most accurate book selection
                 possible for our Luv 2 Read students! We are diligent about our
-                book selection and out book selection and out books are always
+                book selection and out books are always
                 going to be our top priority.
               </p>
             </div>
